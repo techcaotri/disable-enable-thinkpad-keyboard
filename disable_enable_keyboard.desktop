@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Keyboard Laptop ON-OFF
+Icon=/home/tripham/Dev/Playground_Linux/disable-enable-thinkpad-keyboard/enable.png
+Exec=bash /home/tripham/Dev/Playground_Linux/disable-enable-thinkpad-keyboard/disable_enable_keyboard.sh
+Path=/home/tripham/Dev/Playground_Linux/disable-enable-thinkpad-keyboard
+NoDisplay=false
+Categories=Utility;
+StartupNotify=false
+Terminal=false
+Keywords=keyboard;laptop;thinkpad;disable;enable;
